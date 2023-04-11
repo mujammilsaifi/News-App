@@ -1,0 +1,5 @@
+
+npx create-react-app my-app
+npm install react-router-dom
+npm install --save react-infinite-scroll-component
+npm i react-top-loading-bar

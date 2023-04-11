@@ -1,3 +1,9 @@
+******************** ### `News App description` ************************
+This News-app developed by using ReactJs and Bootstrap. In this project latest News get from newsAPI. news gets according to news category.
+This project can run on localhost run command -> npm start  
+
+*******************************************************
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
